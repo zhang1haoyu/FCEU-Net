@@ -1,5 +1,5 @@
 # FCEU-Net
-submitted to The Visual Computer
+submitted to [The Visual Computer](https://link.springer.com/journal/371)
 ![structure](https://github.com/zhang1haoyu/FCEU-Net/blob/main/img/framework.png)
 
 # Abstract
