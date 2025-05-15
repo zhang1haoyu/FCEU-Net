@@ -19,3 +19,16 @@ Download [the Vaihingen Datasets](https://pan.baidu.com/s/1EShNi22VfuIu3e6VygMb8
 + Download weights
 
 Download [our trained weights](https://github.com/zhang1haoyu/FCEU-Net/blob/main/7713%20ours.pth)
+
+# Usage
++ Split the datasets
+
+`python util/Potsdam.py`
+
+`python util/Vaihingen.py`
+
++ Train the network
+
+`python train_Potsdam.py`
+
+`python train_Vaihingen.py`
